@@ -14,4 +14,5 @@ Esta atividade explora os níveis cognitivos criar e entender conforme a taxonom
 - Clarice Yamaoka Bravo 081190016
 - Gustavo Santos Guimarães 081180013
 - Michal Matheus De Silva Oliveira 082180038
+- Kauan Lucas Gomes Jardim 081190040
 
