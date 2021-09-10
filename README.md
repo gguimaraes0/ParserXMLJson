@@ -11,7 +11,7 @@ Inserir no Moodle o link para o código no GitHub (Portfólio)
 Esta atividade explora os níveis cognitivos criar e entender conforme a taxonomia de Bloom
 
 ## 👨‍💻  Participantes
-</br> Clarice Yamaoka Bravo 081190016
-</br> Gustavo Santos Guimarães 081180013
-</br> Michal Matheus De Silva Oliveira 082180038
+- Clarice Yamaoka Bravo 081190016
+- Gustavo Santos Guimarães 081180013
+- Michal Matheus De Silva Oliveira 082180038
 
